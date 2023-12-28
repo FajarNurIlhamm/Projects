@@ -1,2 +1,3 @@
 Hi there!, this is my first repository.
 I'il share all my projects here.
+I hope, my code is usefull for ya
