@@ -7,3 +7,5 @@ Rencana project selanjutnya
 - Bootstrap5
 - Node.JS
  * install tailwind dengan npm
+- PHP Frameworks
+  * Laravel
