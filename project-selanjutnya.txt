@@ -4,3 +4,4 @@ Rencana project selanjutnya
   * gabungin sama bs5
 - Bootstrap5
 - Node.JS
+ * install tailwind dengan npm
