@@ -1,0 +1,5 @@
+Rencana project selanjutnya
+
+- Javascript
+- Bootstrap5
+- Node.JS
