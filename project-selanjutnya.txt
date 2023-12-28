@@ -1,5 +1,6 @@
 Rencana project selanjutnya
 
 - Javascript
+  * gabungin sama bs5
 - Bootstrap5
 - Node.JS
