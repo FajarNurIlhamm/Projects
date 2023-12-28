@@ -2,6 +2,8 @@ Rencana project selanjutnya
 
 - Javascript
   * gabungin sama bs5
+  * vue.js
+  * react.js
 - Bootstrap5
 - Node.JS
  * install tailwind dengan npm
